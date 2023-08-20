@@ -2,5 +2,7 @@
       "prettier.tabWidth": 4,
       "workbench.colorTheme": "GitHub Dark Default",
       "workbench.iconTheme": "vs-seti",
-      "workbench.preferredDarkColorTheme": "GitHub Dark Default"
+      "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+      "window.autoDetectColorScheme": false,
+      "workbench.cloudChanges.autoResume": "onReload"
 }
